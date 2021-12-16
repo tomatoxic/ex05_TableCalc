@@ -84,7 +84,6 @@ public class MainActivity extends AppCompatActivity {
             final int index;
             index = i;
 
-
             numButtons[index].setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
